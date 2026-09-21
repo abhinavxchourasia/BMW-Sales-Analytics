@@ -258,3 +258,55 @@ The dashboard uses calculated metrics such as:
 
 ```text
 Revenue = Price × Units Sold
+💡 Key Insights
+BMW X3 records the highest total revenue among the analyzed models.
+BMW X3 also records the highest number of units sold.
+BMW X1 has the highest profit margin among the models.
+North region has the highest units sold.
+North region also records the highest revenue and profit.
+Units sold and profit show a positive relationship in the dataset.
+BMW 7 Series has the highest average selling price.
+🎨 Dashboard Design
+
+The dashboard uses a professional automotive-inspired design with:
+
+Dark dashboard background
+Blue navigation elements
+KPI cards
+Interactive filters
+Bar charts
+Lollipop charts
+Donut chart
+Scatter plot
+Cross-tab analysis
+Dynamic metric selection
+📷 Dashboard Preview
+Home
+
+Executive Overview
+
+Model Analysis
+
+Region Analysis
+
+Revenue & Profit
+
+Time Analysis
+
+Quick Analysis
+
+👤 Author
+Abhinav Chourasiya
+
+Aspiring Data Analyst
+
+Skills:
+
+SQL
+Microsoft Excel
+Python
+Pandas
+NumPy
+Power BI
+Tableau
+Data Visualization
